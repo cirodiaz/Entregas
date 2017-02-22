@@ -1,0 +1,17 @@
+package com.cuentalineas.entities;
+public class Expression {
+	private String rule;
+	private String ruleType;
+	public String getRuleType() {
+		return ruleType;
+	}
+	public void setRuleType(String ruleType) {
+		this.ruleType = ruleType;
+	}
+	public String getRule() {
+		return rule;
+	}
+	public void setRule(String rule) {
+		this.rule = rule;
+	}
+} //Archivo sin comentarios ni espacios vacíos
