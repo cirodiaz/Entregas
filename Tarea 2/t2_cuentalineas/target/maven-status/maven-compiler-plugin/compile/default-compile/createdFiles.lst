@@ -1,0 +1,4 @@
+com\cuentalineas\entities\Expression.class
+com\cuentalineas\entities\Part.class
+com\cuentalineas\entities\CodingStandard.class
+com\cuentalineas\entities\LineCounter.class
