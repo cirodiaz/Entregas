@@ -1,0 +1,5 @@
+com\estadisticas\entities\Calculator.class
+com\estadisticas\test\RegressionTest.class
+com\estadisticas\entities\Value.class
+com\estadisticas\entities\LinearRegression.class
+com\estadisticas\entities\ValuesArray.class
