@@ -1,0 +1,13 @@
+each_char;6.0000
+string_read;6.0000
+single_character;8.3333
+each_line;10.3333
+single_char;12.3333
+string_builder;16.4000
+string_manager;20.5000
+list_clump;21.7500
+list_clip;22.2500
+string_decrementer;23.0000
+Char;28.3333
+Character;29.0000
+Converter;55.8000
