@@ -1,0 +1,4 @@
+com\estadisticas\entities\Calculator.class
+com\estadisticas\entities\Function.class
+com\estadisticas\entities\XValuesCalculator.class
+com\estadisticas\entities\SimpsonsRuleIntegrator.class
