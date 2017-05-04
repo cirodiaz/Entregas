@@ -1,0 +1,9 @@
+com\estadisticas\entities\Calculator.class
+com\estadisticas\entities\Value.class
+com\estadisticas\entities\SimpsonsRuleIntegrator.class
+com\estadisticas\entities\Function.class
+com\estadisticas\entities\XValuesCalculator.class
+com\estadisticas\entities\LinearRegression.class
+com\estadisticas\entities\Range.class
+com\estadisticas\entities\ValueLabel.class
+com\estadisticas\entities\ValuesArray.class
